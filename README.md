@@ -1,6 +1,6 @@
 # Spring Security Training
 
-Developing my skills with Spring Security.
+Improving my skills with Spring Security.
 
 ---
 
